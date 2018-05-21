@@ -1,3 +1,0 @@
-# SudoYourNano
-Main
-{ test }
